@@ -1,3 +1,7 @@
 Chapter 3
+<<<<<<< HEAD
 
 This is my chapter 3 
+=======
+In chapter 3 ....
+>>>>>>> chapter3
